@@ -1,0 +1,12 @@
+{
+  "appId": "com.mafia.game",
+  "appName": "Mafia Game",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "file"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
